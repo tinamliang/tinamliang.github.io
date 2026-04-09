@@ -18,6 +18,12 @@ _styles: >
   @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap');
   .post article { font-family: 'Josefin Sans', sans-serif; }
   .post article ul { padding-left: 22rem; }
+   @media (max-width: 991px) {
+    .post article ul { padding-left: 15rem; }
+  }
+  @media (max-width: 575px) {
+    .post article ul { padding-left: 2rem; }
+  }
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page

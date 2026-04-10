@@ -15,8 +15,8 @@ profile:
    <p><u><a href="/projects">Projects</a></u></p><br>
    <p><u><a href="https://www.linkedin.com/in/tinamliang/" target="_blank">LinkedIn</a></u></p><br>
    <p><u><a href="https://github.com/tinamliang" target="_blank">Github</a></u></p><br>
-   <p><u><a href="/blog" target="_blank">Blog</a></u></p><br>
-   <p><u><a href="/books" target="_blank">Books</a></u></p><br>
+   <p><u><a href="/blog">Blog</a></u></p><br>
+   <p><u><a href="/books">Books</a></u></p><br>
 
 _styles: >
   @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@600&display=swap');

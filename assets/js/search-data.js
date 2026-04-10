@@ -9,9 +9,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
+  },{id: "nav-my-projects",
+          title: "My Projects",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -42,14 +42,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-mcgill-memes",
+          title: 'McGill Memes',
+          description: "create custom memes for college.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-mock-os-shell",
+          title: 'Mock OS Shell',
+          description: "custom operating system with paging.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{

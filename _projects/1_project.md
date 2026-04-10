@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: McGill Memes
+description: create custom memes for college.
+img: assets/img/mcgill_logo.png
 importance: 1
 category: work
 ---

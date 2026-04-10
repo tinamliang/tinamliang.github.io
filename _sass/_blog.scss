@@ -3,10 +3,10 @@
  ******************************************************************************/
 
 .header-bar {
-  border-bottom: 1px solid var(--global-divider-color);
+  border-bottom: none;
   text-align: center;
   padding-top: 2rem;
-  padding-bottom: 3rem;
+  padding-bottom: none;
 
   h1 {
     color: var(--global-theme-color);

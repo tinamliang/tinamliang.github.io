@@ -28,14 +28,6 @@ _styles: >
   @media (max-width: 575px) {
     .post article ul { padding-left: 2rem; }
   }
-
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
-
-latest_posts:
-  enabled: false
-  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 Hi! I completed my Computer Science Degree at McGill University in December 2025. I'm currently working at Google as a Software Engineer on the Gmail Performance Team.

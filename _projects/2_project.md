@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: Mock OS Shell
 description: custom operating system with paging.
 img: assets/img/os_shell.png

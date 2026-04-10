@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: McGill Memes
 description: create custom memes for college.
 img: assets/img/mcgill_logo.png

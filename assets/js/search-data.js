@@ -37,11 +37,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
+        },{id: "books-intermezzo",
+          title: 'Intermezzo',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
+              window.location.href = "/books/intermezzo/";
             },},{id: "projects-mcgill-memes",
           title: 'McGill Memes',
           description: "create custom memes for college.",

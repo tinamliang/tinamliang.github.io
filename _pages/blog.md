@@ -47,9 +47,9 @@ pagination:
   <ul class="post-list">
 
     {% if page.pagination.enabled %}
-      {% assign postlist = paginator.posts %}
+      {% assign postlist = paginator.posts | where: "published", true %}
     {% else %}
-      {% assign postlist = site.posts %}
+      {% assign postlist = site.posts | where: "published", true %}
     {% endif %}
 
     {% for post in postlist %}

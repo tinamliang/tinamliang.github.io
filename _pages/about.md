@@ -36,3 +36,6 @@ Where I've interned in the past:
 * <u><a href="https://about.google/" target="_blank">Google</a></u>: Cloud IAM, Workspace Platform, Gmail Performance Team(s) Intern.
 * <u><a href="https://www.sunlife.ca/en/" target="_blank">Sun Life Financial</a></u>: Mobile Developer Intern.
 * <u><a href="https://www.introspect.ca/" target="_blank">Introspect Technology</a></u>: Software Developer Intern.
+
+
+Would love to connect about any available opportunities at: tinamliang@gmail.com.

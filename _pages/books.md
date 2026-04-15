@@ -7,4 +7,4 @@ nav_order: 6
 collection: books
 ---
 
-### My thoughts on books that I have read
+### My thoughts on books that I have read and the ones I want to read ...

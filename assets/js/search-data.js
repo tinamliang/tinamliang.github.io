@@ -37,7 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "books-intermezzo",
+        },{id: "books-anarchy-state-and-utopia",
+          title: 'Anarchy, State, and Utopia',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/anarchy_state_utopia/";
+            },},{id: "books-intermezzo",
           title: 'Intermezzo',
           description: "",
           section: "Books",handler: () => {
